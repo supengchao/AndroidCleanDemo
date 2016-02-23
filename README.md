@@ -1,9 +1,11 @@
 # Android Clean - Cost Tracker
 A sample cost-tracker app that showcases my Clean architecture approach to build Android applications. It is a simple app with **core features** that include:
 
+
 - Adding, editing and deleting a cost with a date, category, description and amount
 - Displaying a list of summarized costs day by day
 - Clicking on a summarized cost should display details of all costs for that day
+
 
 That's it. For now.
 
